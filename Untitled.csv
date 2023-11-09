@@ -1,0 +1,4 @@
+Code,Name,Continent,Region,SurfaceArea,IndepYear,Population,LifeExpectancy,GNP,GNPOld,LocalName,GovernmentForm,HeadOfState,Capital,Code2
+HKG,"Hong Kong",Asia,"Eastern Asia",1075.00,NULL,6782000,79.5,166448.00,173610.00,"Xianggang/Hong Kong","Special Administrative Region of China","Jiang Zemin",937,HK
+PRI,"Puerto Rico","North America",Caribbean,8875.00,NULL,3869000,75.6,34100.00,32100.00,"Puerto Rico","Commonwealth of the US","George W. Bush",2919,PR
+PSE,Palestine,Asia,"Middle East",6257.00,NULL,3101000,71.4,4173.00,NULL,Filastin,"Autonomous Area","Yasser (Yasir) Arafat",4074,PS
